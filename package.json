@@ -1,7 +1,7 @@
 {
   "name": "globalize-jquery-validate-webpack",
   "version": "0.0.1",
-  "description": "globalize-jquery-validate-webpack",
+  "description": "A plugin that automatically integrates jQuery Validation Globalize plugin extension and Globalize runtime dependencies into Webpack build",
   "main": "output/app.js",
   "author": {
     "name": "Semyon Oshchepkov"
@@ -9,6 +9,11 @@
   "engines": {
     "node": ">=4.3.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssoshchepkov/globalize-jquery-validate-webpack.git"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^6.0.112",
     "@types/webpack": "4.4.0",

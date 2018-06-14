@@ -1,0 +1,3 @@
+﻿# globalize-jquery-validate-webpack
+
+
